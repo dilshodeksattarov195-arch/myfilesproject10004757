@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterralculate",
+        "uuid": 11050511,
+        "checksum": "edve4q"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
